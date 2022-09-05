@@ -1,0 +1,2 @@
+
+![FactoryMethod](/FactoryMethod/FactoryMethod.png)

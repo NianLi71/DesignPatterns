@@ -1,0 +1,2 @@
+
+![PizzaStoreFactoryMethod](./FactoryMethod-PizzaStore.png)
